@@ -1,2 +1,2 @@
-# Flipnote-Hatena-DSi-server
-fully assembled Flipnote Hatena server for the Nintendo DSi consoles (W.I.P)
+# Flipnote Hatena - Nintendo DSi console server
+fully assembled Flipnote Hatena server for the Nintendo DSi consoles (Work in progress)
