@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ugo_xml>
+	<layout>
+		<value>0</value>
+	</layout>
+	<title>
+		<label>Channels</label>
+		<label />
+		<label />
+		<label />
+		<label />
+		<num>0</num>
+	</title>
+	<button>
+		<label>Animation/Comics</label>
+		<address>http://{DOMAIN}/ds/v2-eu/cat.uls?id=3&amp;sort=hot</address>
+		<trait>4</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>Characters</label>
+		<address>http://{DOMAIN}/ds/v2-eu/cat.uls?id=10&amp;sort=hot</address>
+		<trait>4</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>Stories</label>
+		<address>http://{DOMAIN}/ds/v2-eu/cat.uls?id=11&amp;sort=hot</address>
+		<trait>4</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>Stick Figures</label>
+		<address>http://{DOMAIN}/ds/v2-eu/cat.uls?id=5&amp;sort=hot</address>
+		<trait>4</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>Music</label>
+		<address>http://{DOMAIN}/ds/v2-eu/cat.uls?id=4&amp;sort=hot</address>
+		<trait>4</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>Games</label>
+		<address>http://{DOMAIN}/ds/v2-eu/cat.uls?id=2&amp;sort=hot</address>
+		<trait>4</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>Chat/Collaboration</label>
+		<address>http://{DOMAIN}/ds/v2-eu/cat.uls?id=6&amp;sort=hot</address>
+		<trait>4</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>Weekly Topic: Thank You</label>
+		<address>http://{DOMAIN}/ds/v2-eu/ch/225337023746419115.uls</address>
+		<trait>4</trait>
+		<value />
+		<value>371</value>
+	</button>
+</ugo_xml>
