@@ -21,6 +21,14 @@
     </button>
 
     <button>
+        <label>Creator's Room</label>
+        <address>http://flipnote.hatena.com/ds/v2-eu/96FAD88031C49DE1/profile.htm?pm=80&amp;t=260</address>
+        <trait>104</trait>
+        <value />
+        <value>0</value>
+    </button>
+
+    <button>
         <label>Announcement</label>
         <address>http://flipnote.hatena.com/ds/v2-eu/information.uls</address>
         <trait>102</trait>
@@ -40,14 +48,6 @@
         <label>News</label>
         <address>http://flipnote.hatena.com/ds/v2-eu/help/news.htm?mode=archives</address>
         <trait>0</trait>
-        <value />
-        <value>0</value>
-    </button>
-
-    <button>
-        <label>Creator's Room</label>
-        <address>http://flipnote.hatena.com/ds/v2-eu/96FAD88031C49DE1/profile.htm?pm=80&amp;t=260</address>
-        <trait>104</trait>
         <value />
         <value>0</value>
     </button>
