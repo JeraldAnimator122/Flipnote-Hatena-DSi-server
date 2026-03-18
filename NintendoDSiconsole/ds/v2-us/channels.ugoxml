@@ -6,63 +6,63 @@
 	<title>
 		<label>Channels</label>
 		<label />
-		<label />
+		<label>Choose a Channels you wish to select!</label> 
 		<label />
 		<label />
 		<num>0</num>
 	</title>
 	<button>
-		<label>Animation</label>
-		<address>http://{DOMAIN}/ds/v2-us/cat.uls?id=3&amp;sort=hot</address>
+		<label>Animation/Art</label>
+		<address>http://{DOMAIN}/ds/v2-us/ch/animationmain.uls</address>
 		<trait>4</trait>
 		<value />
 		<value>0</value>
 	</button>
 	<button>
-		<label>Games</label>
-		<address>http://{DOMAIN}/ds/v2-us/cat.uls?id=10&amp;sort=hot</address>
+		<label>Games/Epic Moments</label>
+		<address>http://{DOMAIN}/ds/v2-us/ch/games.uls</address>
 		<trait>4</trait>
 		<value />
 		<value>0</value>
 	</button>
 	<button>
-		<label>Flipnote Series</label>
-		<address>http://{DOMAIN}/ds/v2-us/cat.uls?id=11&amp;sort=hot</address>
+		<label>Flipnote Series/TV Show</label>
+		<address>http://{DOMAIN}/ds/v2-us/ch/flipnoteseries.uls</address>
 		<trait>4</trait>
 		<value />
 		<value>0</value>
 	</button>
 	<button>
-		<label>Music</label>
-		<address>http://{DOMAIN}/ds/v2-us/cat.uls?id=5&amp;sort=hot</address>
+		<label>Music/Soundtrack</label>
+		<address>http://{DOMAIN}/ds/v2-us/ch/music.uls</address>
 		<trait>4</trait>
 		<value />
 		<value>0</value>
 	</button>
 	<button>
-		<label>Collaboration</label>
-		<address>http://{DOMAIN}/ds/v2-us/cat.uls?id=4&amp;sort=hot</address>
+		<label>Collaboration/Friends</label>
+		<address>http://{DOMAIN}/ds/v2-us/ch/collaboration.uls</address>
 		<trait>4</trait>
 		<value />
 		<value>0</value>
 	</button>
 	<button>
-		<label>Games</label>
-		<address>http://{DOMAIN}/ds/v2-us/cat.uls?id=2&amp;sort=hot</address>
+		<label>Ultimate Crossover TV Show</label>
+		<address>http://{DOMAIN}/ds/v2-us/ch/ultimatecrossover.uls</address>
 		<trait>4</trait>
 		<value />
 		<value>0</value>
 	</button>
 	<button>
-		<label>Stick Fights</label>
-		<address>http://{DOMAIN}/ds/v2-us/cat.uls?id=6&amp;sort=hot</address>
+		<label>Stick Fights/Battles</label>
+		<address>http://{DOMAIN}/ds/v2-us/ch/stickfight.uls</address>
 		<trait>4</trait>
 		<value />
 		<value>0</value>
 	</button>
 	<button>
-		<label>Weekly Topic: Sample Topic</label>
-		<address>http://{DOMAIN}/ds/v2-us/ch/225337023746419115.uls</address>
+		<label>Weekly Topics</label>
+		<address>http://{DOMAIN}/ds/v2-us/ch/weekly-topics.uls</address>
 		<trait>4</trait>
 		<value />
 		<value>371</value>
